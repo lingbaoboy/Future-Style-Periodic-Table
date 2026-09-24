@@ -27,6 +27,9 @@
 
 </div>
 
+> 国内 AtomGit 托管：[AtomGit 镜像](https://atomgit.com/qq_45141261/Future-Style-Periodic-Table) · [GitHub 主仓库](https://github.com/SeanWong17/Future-Style-Periodic-Table)
+> 本项目以 GitHub 为主仓库，Issue 和 PR 请优先提交至 [GitHub](https://github.com/SeanWong17/Future-Style-Periodic-Table)。
+
 ---
 
 ## 📖 简介 (Introduction)
